@@ -1,0 +1,12 @@
+[
+    {
+        "identifier": "mac.hdz@gmail.com",
+        "password": "password",
+        "roles": ["admin"]
+    },
+    {
+        "identifier": "samantha@gmail.com",
+        "password": "password",
+        "roles": []
+    }
+]
